@@ -26,6 +26,6 @@ Tengo 28 años y quise dar un giro de 180º a mi vida ingresando en el mundo IT.
 * MongoDB
 
 ###### Metodología de Scrum
-[========]
+------------
 #####  Encuéntrenme en:
 [LinkedIn](https://www.linkedin.com/in/neilen-monlezun/ "LinkedIn")
