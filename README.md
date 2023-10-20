@@ -18,6 +18,7 @@ Desarrolladora FullStack de las ciudades de Pergamino / La Plata, Buenos Aires, 
 * Sequelize
 * Mongoose
 * JWT
+* NestJs
 
 
 ###### Databases
