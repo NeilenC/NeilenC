@@ -1,4 +1,4 @@
-###  Hola! Soy Neilén Monlezún 
+###  Hola! Soy Neilén
 
 Desarrolladora FullStack de las ciudades de Pergamino / La Plata, Buenos Aires, Argentina.
 
